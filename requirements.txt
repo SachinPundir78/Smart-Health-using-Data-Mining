@@ -72,7 +72,6 @@ packaging==20.4
 pandas==2.2.3
 pandocfilters==1.4.2
 parso==0.7.0
-pathtools==0.1.2
 pickleshare==0.7.5
 Pillow==7.1.2
 plotly==4.8.2
