@@ -145,5 +145,6 @@ Below is an example of the **Smart Health Predictor** in action:
 
 ![Screenshot of Smart Health Predictor](Screenshot 2024-12-02 145325.png)
 
+![Screenshot 2024-12-02 145325](https://github.com/user-attachments/assets/0d06c5a6-c8c3-44a9-a249-dc406c10da3f)
 
 ---
