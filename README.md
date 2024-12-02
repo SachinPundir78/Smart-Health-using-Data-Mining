@@ -2,6 +2,7 @@
 # 🩺 Smart Health - Disease Prediction using Data Mining 🧠💻
 
 This project, **Smart Health**, uses data mining techniques to predict diseases based on patient symptoms. It employs the Random Forest Classifier as the primary machine learning model and provides a user-friendly interface powered by Streamlit. 🌟
+![Screenshot 2024-12-02 145325](https://github.com/user-attachments/assets/0d06c5a6-c8c3-44a9-a249-dc406c10da3f)
 
 ---
 
@@ -137,12 +138,5 @@ Each dataset includes:
 ## 🙏 Acknowledgements
 - 📘 **Scikit-learn Documentation** for machine learning references.  
 - 🌟 **Streamlit Community** for guidance on app development.  
-
-
-### Example Usage Screenshot
-
-Below is an example of the **Smart Health Predictor** in action:
-
-![Screenshot 2024-12-02 145325](https://github.com/user-attachments/assets/0d06c5a6-c8c3-44a9-a249-dc406c10da3f)
 
 ---
